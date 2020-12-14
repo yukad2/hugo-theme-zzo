@@ -8,13 +8,13 @@ other = "2006/1/2"
 other = "分で読めます"
 
 [tags]
-other = "タグ"
+other = "Tags"
 
 [categories]
-other = "カテゴリ"
+other = "Categories"
 
 [series]
-other = "連載"
+other = "series"
 
 [archive-dateformat]
 other = "1/2"
@@ -41,31 +41,31 @@ other = "著者"
 other = "目次"
 
 [counter-site-pv]
-other = "サイト閲覧数"
+other = "PV"
 
 [counter-site-uv]
-other = "訪問者数"
+other = "Visitors"
 
 [counter-page-pv]
-other = "ページ閲覧数"
+other = "PV"
 
 [donate-message]
-other = "著者をサポート"
+other = "Donate"
 
 [share-message]
-other = "共有"
+other = "Share"
 
 [contact-name]
 other = "名前"
 
 [contact-email]
-other = "Eメール"
+other = "e-mail"
 
 [contact-tel]
-other = "電話番号"
+other = "Tel"
 
 [contact-file]
-other = "ファイル"
+other = "File"
 
 [contact-message]
 other = "メッセージ"
